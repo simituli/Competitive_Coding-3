@@ -1,5 +1,5 @@
 //Time Complexity = O(n*2)
-//Space Complexity = O(n)
+//Space Complexity = O(n*2)
 public class Solution {
     public IList<IList<int>> Generate(int numRows) {
         int[][] arr = new int[numRows][]; // Create an array with numRows outer elements
